@@ -20,3 +20,8 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+
+backup_notebooks/
+*_SAFE.ipynb
+.gitattributes
