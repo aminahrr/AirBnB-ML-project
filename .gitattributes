@@ -1,1 +1,3 @@
 *.ipynb diff=jupyter merge=jupyternotebook
+
+*.ipynb	diff=jupyternotebook
